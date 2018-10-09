@@ -12,7 +12,7 @@
 
 2 -  Crie o banco de dados no MySQL
 
-    ```create database example_wtm```
+     create database example_wtm
   
 3. Modifique o username e password no arquivo abaixo de acordo com as credenciais do seu banco de dados
 
